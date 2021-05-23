@@ -1,3 +1,4 @@
+
 # Django NotePad 	:clipboard::calendar:
 
 Designed a simple To-Do List Web Application using Django and Bootstrap.
@@ -14,12 +15,12 @@ Designed a simple To-Do List Web Application using Django and Bootstrap.
 * Responsive
 
 ## Want to get Familiar with Project 🤗?
-Watch Video 
-
+https://user-images.githubusercontent.com/52202163/119265584-dedf4f80-bc04-11eb-8139-dda9edf4a3f2.mov
 
 ## Setup process
 1. Create a virtualenv with `virtualenv env`
 2. Install dependencies with `pip install -r requirements.txt`
 
-
+## ScreenShots
+<img width="720" alt="notepad" src="https://user-images.githubusercontent.com/52202163/119265507-a93a6680-bc04-11eb-8a2d-e83af458f5a1.png">
 
